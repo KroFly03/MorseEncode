@@ -60,8 +60,3 @@ for count in range(len(words)):
 
 # Вывод результатов
 print_statistics(answers)
-
-
-
-
-
